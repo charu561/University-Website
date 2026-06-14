@@ -517,6 +517,9 @@ body {
     display: block;
   }
 
+  .nav-menu a:hover {
+  color: #0E3B2E;
+}
   .menu-card:checked~.nav-menu {
     right: 0;
   }
